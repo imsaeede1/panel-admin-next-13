@@ -6,7 +6,7 @@ import Header from "../Header";
 
 export const metadata = {
   title: "Next Shop Panel",
-  description: "Next.js shop",
+  description: "Next.js shop test",
 };
 
 export default function RootLayout({ children }) {
